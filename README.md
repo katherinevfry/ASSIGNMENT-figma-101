@@ -23,3 +23,7 @@
   - You will be able to do tis by selecting the "Share" button in the top right hand of the screen.
     - Select Anyone with the Link can View
     - Copy Link and Paste into your README
+
+    ### Link to Katy's Figma Wireframe
+
+   https://www.figma.com/file/vcrHogZiceQA9sRYBCZVd4/Katy-s-101?node-id=0%3A1
